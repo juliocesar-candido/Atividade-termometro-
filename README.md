@@ -1,5 +1,5 @@
 # ATIVIDADE 1: "ATIVIDADE TERMÔMETRO"
-Questões da "atividade termômetro" da matéria LP I , questões resolvidas na linguagem c 
+Questões da "atividade termômetro" da matéria LP I 
 
 # *Questões resolvidas:*
 
